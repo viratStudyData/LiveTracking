@@ -1,0 +1,6 @@
+framework module Pods_LiveTracking {
+  umbrella header "Pods-LiveTracking-umbrella.h"
+
+  export *
+  module * { export * }
+}

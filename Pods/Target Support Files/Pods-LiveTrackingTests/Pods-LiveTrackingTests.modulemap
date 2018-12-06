@@ -1,0 +1,6 @@
+framework module Pods_LiveTrackingTests {
+  umbrella header "Pods-LiveTrackingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
